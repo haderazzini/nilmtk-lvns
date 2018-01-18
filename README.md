@@ -6,4 +6,4 @@ One obstacle in developing Non-Intrusive Load Monitoring (NILM) techniques is th
 # Install
 > After you install [Non-Intrusive Load Monitoring Toolkit](https://github.com/nilmtk/nilmtk/blob/master/docs/manual/user_guide/install_user.md) and obtain the [Low Voltage Network Simulator](http://www.dsee.fee.unicamp.br/~torquato/) download the files 'main_home_simulator.py' and 'definitions.py'. Replace them in the LVNS folder.
 
->After place the folder 'lvns' in folder of converters, in general located in 'Anaconda\envs\nilmtk-env\Lib\site-packages\nilmtk\dataset_converters'
+>After place the folder `lvns` in folder of converters, in general located in `Anaconda\envs\nilmtk-env\Lib\site-packages\nilmtk\dataset_converters`
